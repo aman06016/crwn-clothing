@@ -13,7 +13,7 @@ const StripeCheckoutButton = ({price}) => {
     return (
         <StripeCheckout 
         label = 'Pay Now'
-        name = 'Crwn Clothing Ltd'
+        name = 'FAMstyle shopping Ltd'
         billingAddress
         shippingAddress
         currency="USD"
